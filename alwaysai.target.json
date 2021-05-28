@@ -1,0 +1,8 @@
+{
+  "targetProtocol": "ssh+docker:",
+  "targetHostname": "alwaysai@demonano.local",
+  "targetPath": "alwaysai/poseMobile",
+  "dockerImageId": "sha256:8b232e23d3789b7defaf1c485caba874949945559420cb52b1bc1145a8d2c113",
+  "targetHardware": "jetson",
+  "deviceId": "2936c194-c6af-44fb-b5a7-2f475332c6ff"
+}
